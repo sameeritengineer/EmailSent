@@ -10,7 +10,7 @@ class PDFController extends Controller
 {
         public function index()
         {
-            $data["email"] = "shivamsmartitventures@gmail.com";
+            $data["email"] = "shivam@smartitventures.com";
             $data["title"] = "From Smart It Ventures";
             $data["body"] = "This is Demo";
             $data["image"] = "https://bucket-dev-sss.s3.us-east-1.amazonaws.com/images/ink-pinned/1664179189.png";
